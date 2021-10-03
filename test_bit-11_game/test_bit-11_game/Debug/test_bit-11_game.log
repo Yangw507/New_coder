@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+D:\VS 2019_code\2021比特102\test_bit-11_game\test_bit-11_game\test.c(20,8): warning C4013: “game”未定义；假设外部返回 int
+  正在生成代码...
+  test_bit-11_game.vcxproj -> D:\VS 2019_code\2021比特102\test_bit-11_game\Debug\test_bit-11_game.exe
